@@ -3,7 +3,7 @@
 TODO: 私はアニメが好きなので城を守る魔法使いをイメージして作成しようと思いました。
 
 ## Installation
-
+githubでNBAZUZU6/processing_templatesをforkしてcloneしてください。
 
 
 ## Usage
